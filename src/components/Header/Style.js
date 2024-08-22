@@ -14,7 +14,7 @@ const Top = styled.header`
     background-color: var(--background);
     text-decoration: none;
     font-weight: bold;
-    color: var(--detalhe);
+    color: #DAA520;
     text-transform: uppercase;
     /*border-radius: .3em;*/
     &:hover{

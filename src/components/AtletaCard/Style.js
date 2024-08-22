@@ -8,7 +8,7 @@ const Card = styled.article`
   
   div.nome{
     background-color: var(--primaria);
-    color: var(--secundaria);
+    color: var(--nome);
     text-align: center;
     font-size: larger;
     font-weight: bold;
